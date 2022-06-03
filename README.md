@@ -1,7 +1,7 @@
+Make sure you use npm install to use this code because the node_modules folder has been ignored.
 # Rap Names API
-A perfectly crafted tool to find info about your favorite rappers!  Make sure you use npm install to use this code because the node_modules folder has been ignored.
-<!--
-**Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
+A perfectly crafted tool to find info about your favorite rappers!
+<!-- **Link to project:** http://rapper-api-100devs-class39.herokuapp.com/ -->
 
 ![alt tag](https://i.guim.co.uk/img/media/f6944ae7015063b4cd9ca21ed07c83aac89ad244/0_89_2000_1200/master/2000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5383dcfed64d39eefa190bb809571091)
 
