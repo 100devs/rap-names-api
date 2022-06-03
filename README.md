@@ -3,23 +3,26 @@ The rap name api allows users to find some information about their favorite rapp
 
 **Link to project:** [http://rapper-api-100devs-class39.herokuapp.com/](https://rapper-api-100devs-class39.herokuapp.com/)
 
-![alt tag](./images/example.png)
+<img src='images/example.PNG' width="100%" >
 
 ## How It's Made:
 
-**Tech used:** HTML, JavaScript, Node.js
+**Tech used:** HTML, JavaScript, Node.js, Express
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Rapper Names API allows users to access an API locally or over the web.
+
+## Note:
+Please make sure to run 'npm install'
+node_modules is left out of the github repo to save space and for easier to use, this means you will have to install node modules before you can modify the server.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+How to make APIs that can be used by users around the world! Node and Express allow an easy interface for users to access information using links! The backend is made easier to understand using Expresses unopioninated methods like sendFile or json!
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+https://rapper-api-100devs-class39.herokuapp.com/api/RAPPER_NAME
+https://rapper-api-100devs-class39.herokuapp.com/api/chance the rapper
+Returns information for Chance The Rapper
 
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+https://rapper-api-100devs-class39.herokuapp.com/api/21 savage
+Returns information for 21 Savage
