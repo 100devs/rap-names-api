@@ -3,7 +3,7 @@ This is a simple api that allows you to make a request to the server, and it res
 
 **Link to project:** https://github.com/100devs/rap-names-api
 
-![Image of website](https://i.ibb.co/2cXm64C/100devs-rap-names-api.png)
+![Image of website](https://i.ibb.co/pwRYPTh/Document.png)
 
 ## How It's Made:
 
