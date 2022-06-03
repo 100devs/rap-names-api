@@ -1,4 +1,4 @@
-Make sure you use npm install to use this code because the node_modules folder has been ignored.
+Once you have cloned this repo, make sure to navigate to its directory in your terminal and run "npm install" so you can receive the "node_modules" folder which has been gitignored.
 # Rap Names API
 A perfectly crafted tool to find info about your favorite rappers!
 <!-- **Link to project:** http://rapper-api-100devs-class39.herokuapp.com/ -->
