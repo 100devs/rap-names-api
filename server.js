@@ -17,7 +17,11 @@ const rappers = {
         'age': 0,
         'birthName': 'unknown',
         'birthLocation': 'unknown'
-    }
+    },
+        'eminem' : {
+            'birthName': 'Marshall Bruce Mathers III',
+            'birthLocation': 'St. Joseph, Missouri, U.S.'
+    },
 }
 app.get('/', (request, response)=>{
     response.sendFile(__dirname + '/index.html')
