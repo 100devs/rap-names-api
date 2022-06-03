@@ -12,7 +12,6 @@ HTML, CSS, JavaScript, Node.js, Express
 Leon perfectly crafted this BEAUTIFUL API
 
 ## Optimizations
-*(optional)*
 
 More camera winking!
 
