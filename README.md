@@ -1,6 +1,5 @@
 # Rap Names API
-A perfectly crafted tool to find info about your favorite rappers!
-Make sure you use npm install to use this code because the node_modules folder has been ignored.
+A perfectly crafted tool to find info about your favorite rappers!  Make sure you use npm install to use this code because the node_modules folder has been ignored.
 <!--
 **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
 
