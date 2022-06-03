@@ -18,3 +18,8 @@ I learned how to host an app on heroku through the heroku CLI, as well as troubl
 ## Optimizations
 
 I will be adding more rappers soon!
+
+## Installation
+```
+npm install
+```
