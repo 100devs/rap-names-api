@@ -20,10 +20,10 @@ More camera winking!
 Leon is a BALLER and is helping the world SO MUCH with this cohort!!
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at these links to get started with 100Devs:
 
 **Palettable:** https://github.com/alecortega/palettable
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Twitter Channel:** https://www.twitch.tv/learnwithleon
 
 **Patch Panel:** https://github.com/alecortega/patch-panel -->
