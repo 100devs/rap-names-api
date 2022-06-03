@@ -1,5 +1,5 @@
 <h1>Rap Name Api</h1>
-<p>This is a rapper's name APi that allows you to search up an artist's real name by placing it in. This uses Express and Node.js to use this.</p>
+<p>This is a rapper's name APi that allows you to search up an artist's real name by placing it in. This uses Express and Node.js to use this. It requires Node to be downloaded and npm install in your terminal for it to work.</p>
 <img src="Capturea.PNG" alt="Rap API code" width="100%"></img>
 
 <h2>How It's Made:</h2>
