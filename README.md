@@ -1,6 +1,6 @@
 Rap Names Api
 <br>
-100Devs created an API to give details of your favorite rapper.
+100Devs created an API to give details of your favorite rappers.
 
 Link to project: https://rapper-api-100devs-class39.herokuapp.com/
 ![21 Savage](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fglamourfame.com%2Fuploads%2F2019%2F03%2F11%2Frapper-21-savage--1552284147.jpg&f=1&nofb=1)
