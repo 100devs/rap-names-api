@@ -1,24 +1,24 @@
 # Rap Names API
 Make sure you use npm install to use this code because the node_modules folder has been ignored.
+<!-- 
+**Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
 
-<!-- //**Link to project:** http://recruiters-love-seeing-live-demos.com/
+![alt tag]([http://placecorgi.com/1200/650](https://i.guim.co.uk/img/media/f6944ae7015063b4cd9ca21ed07c83aac89ad244/0_89_2000_1200/master/2000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5383dcfed64d39eefa190bb809571091))
 
-//![alt tag](http://placecorgi.com/1200/650)
+## How It's Made:
 
-//## How It's Made: -->
+HTML, CSS, JavaScript, Node.js, Express
 
-<!-- **Tech used:** HTML, CSS, JavaScript, Framework of choice
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Leon perfectly crafted this BEAUTIFUL API
 
 ## Optimizations
 *(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+More camera winking!
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Leon is a BALLER and is helping the world SO MUCH with this cohort!!
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
