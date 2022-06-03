@@ -6,13 +6,12 @@ This RESTful API returns data about your favorite rapper.
 Check out the Live site: [Click Here](https://rapper-api-100devs-class39.herokuapp.com/)
 
 ## Documentation
-<hr>
 
 ![GET](https://img.shields.io/badge/-GET-brightgreen) Get Rapper Info by Name
 
 >/api/ {<i>rapper_name</i>}
 
-<br><strong>Example:</strong>
+<strong>Example:</strong>
 
 Route: `/api/chance%20the%20rapper`
 <br>
@@ -26,11 +25,8 @@ Returns:
 ```
 <strong>NOTE:</strong> If {rapper_name} doesn't exist in our database it will return "unknown" values
 
-
-
 ## Instruction
 <i>If you want to run server on your local machine</i>
-<hr>
 
 ### Clone repo
 >`git clone https://github.com/100devs/rap-names-api.git`
@@ -42,7 +38,6 @@ Returns:
 >`node server.js`
 
 ## Try it yourself!
-<hr>
 
 ### I. Using cURL
 <ins><strong>Local: </strong><ins>
@@ -63,6 +58,3 @@ Make sure you are making a [GET Request](https://developer.mozilla.org/en-US/doc
 <ins><strong>Live Server: </strong></ins>
 
 >`https://rapper-api-100devs-class39.herokuapp.com/api/{rapper_name}`
-
-
-
