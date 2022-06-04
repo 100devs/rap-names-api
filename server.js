@@ -26,14 +26,10 @@ app.get('/', (request, response)=>{
     response.sendFile(__dirname + '/index.html')
 })
 
-app.get('/api/:name',(request,response)=>{
-    const rapperName = request.params.name.toLowerCase()
+app.get('/api/:name', (request, response) => {
+        response.json(rappers[request.params?.name.toLowerCase()] || rappers['unknown']);
+})
 
-    if( rappers[rapperName] ){
-        response.json(rappers[rapperName])
-    }else{
-        response.json(rappers['unknown'])
-    }
     
 })
 
