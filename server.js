@@ -27,6 +27,7 @@ app.get('/', (request, response)=>{
 })
 
 app.get('/api/:name', (request, response) => {
+		// if rappers raper name is nullish, server the unknown rapper 
         response.json(rappers[request.params?.name.toLowerCase()] || rappers['unknown']);
 })
 
