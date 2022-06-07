@@ -1,7 +1,7 @@
 
-# Rap Names API
+# Rapper Names API
 
-Rap Names API allows you to search a database of every rapper named chance the rapper or 21 savage. 
+Rapper Names API allows you to search a database of every rapper named chance the rapper or 21 savage. 
 
 ## Link to API: 
 [simple-rapper-api.herokuapp.com/](https://simple-rapper-api.herokuapp.com/)
@@ -9,7 +9,7 @@ Rap Names API allows you to search a database of every rapper named chance the r
 ## How to use the API:
 
 
-Rap Names API allows you to search a database of every rapper named chance the rapper or 21 savage. 
+Rapper Names API allows you to search a database of every rapper named chance the rapper or 21 savage. 
 
 ### Tech Used: HTML, CSS, Javascript, Express, Node
 
