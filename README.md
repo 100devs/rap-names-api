@@ -3,7 +3,7 @@
 
 Rapper Names API allows you to search a database of all your favourite rappers. Chance the Rapper, 21 savage. 
 
-z
+
 ### Tech Used: HTML, Javascript, Express, Node
 
 ## Link to API: 
