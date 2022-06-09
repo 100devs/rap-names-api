@@ -3,15 +3,24 @@
 
 Rapper Names API allows you to search a database of all your favourite rappers. Chance the Rapper, 21 savage. 
 
+
+### Tech Used: HTML, CSS, Javascript, Express, Node
+
 ## Link to API: 
 [simple-rapper-api.herokuapp.com/](https://simple-rapper-api.herokuapp.com/)
 
 ## How to use the API:
 
+Add rapper name to the URL to get back their data
 
-Rapper Names API allows you to search a database of every rapper named chance the rapper or 21 savage. 
+Example: simple-rapper-api.herokuapp.com/api/**example-rapper-name**
 
-### Tech Used: HTML, CSS, Javascript, Express, Node
+## How to run the API locally:
+
+To run the API locally, navigate to the server directory and run: `npm install` to install dependencies.
+
+Start the server with: `node server.js`.
+
 
 ## Demo
 
